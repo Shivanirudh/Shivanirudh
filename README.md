@@ -1,6 +1,7 @@
-<h1 align="center">Hey! 👋 Shiva here, Nice to meet you!:smiley:</h1>
+<h1 align="center">Hey! Shiva here. Nice to meet you!:smiley:</h1>
 
 <p align="center">
+<a href="mailto:shivanirudh18146@cse.ssn.edu.in" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt = "Shivanirudh" height = "30" width = "30" /></a>
 <a href="https://www.linkedin.com/in/shiv-anirudh-b47265199/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shiv-anirudh" height="30" width="30" /></a>
 <a href="https://fb.com/shiv anirudh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shiv anirudh" height="30" width="30" /></a>
 <a href="https://instagram.com/shiv_anirudh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shiv_anirudh" height="30" width="30" /></a>
