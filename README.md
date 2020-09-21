@@ -25,8 +25,9 @@ I am currently a junior in <a href="www.ssn.edu.in">SSN College of Engineering</
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></p>
 
 <h3 align="left">Github Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanirudh&show_icons=true" alt="shivanirudh" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanirudh&layout=compact" alt="shivanirudh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanirudh&layout=compact" alt="shivanirudh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanirudh&show_icons=true" alt="shivanirudh" /></p>
+
 
 <!--
 **Shivanirudh/Shivanirudh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
