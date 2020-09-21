@@ -15,13 +15,13 @@ I am currently a junior in <a href="www.ssn.edu.in">SSN College of Engineering</
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p>
 
 <h3 align="left">Github Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanirudh&layout=compact" alt="shivanirudh" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanirudh&show_icons=true" alt="shivanirudh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanirudh&layout=compact" alt="shivanirudh" /></p>
+<br>
 
 <h3 align="left">Contact Me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/shiv-anirudh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shiv-anirudh" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/shiv-anirudh-b47265199/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shiv-anirudh" height="30" width="30" /></a>
 <a href="https://fb.com/shiv anirudh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shiv anirudh" height="30" width="30" /></a>
 <a href="https://instagram.com/shiv_anirudh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shiv_anirudh" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/shivanirudh2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shivanirudh2001" height="30" width="30" /></a>
