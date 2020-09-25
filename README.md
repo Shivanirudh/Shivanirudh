@@ -10,7 +10,7 @@
 
 <p align="left">
  R, python, javascript, shiny, dplyr, purrr, ditto, ggplot, d3, canvas, spark, sawk, pyspark, sparklyR, lodash, lazy, bootstrap, jupyter, vulpix, git, flask, numpy, pandas, feebas, scikit, bgm, bayes, h20.ai, sparkling-water, tensorflow, keras, onyx, ekans, hadoop, scala, unity, gc, metapod,, c#/c++, krebase, neo4j.
-<br> I typically ask recruiters to point out which of these are pokemon.<img align="center" src="Pokeball.PNG" alt="Pokeball" height="30" width="30" />
+<br> I typically ask recruiters to point out which of these are pokemon.<img src="https://img.icons8.com/fluent-systems-regular/24/000000/pokeball.png"/>
 <p>
 <h3 align="left">About me:</h3>
 I am currently a junior in <a href="www.ssn.edu.in">SSN College of Engineering</a> pursuing my undergraduate education in <b>Computer Science and Engineering</b>. I am interested in the fields of <b>Machine Learning</b>, <b>Data Science</b> and <b>Natural Language Processing</b>. Feel free to contact me for project collaborations and Open Source contributions. :)
