@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
- R, python, javascript, shiny, dplyr, purrr, ditto, ggplot, d3, canvas, spark, sawk, pyspark, sparklyR, lodash, lazy, bootstrap, jupyter, vulpix, git, flask, numpy, pandas, feebas, scikit, bgm, bayes, h20.ai, sparkling-water, tensorflow, keras, onyx, ekans, hadoop, scala, unity, gc, metapod,, c#/c++, krebase, neo4j.
+ R, python, javascript, shiny, dplyr, purrr, ditto, ggplot, d3, canvas, spark, sawk, pyspark, sparklyR, lodash, lazy, bootstrap, jupyter, vulpix, git, flask, numpy, pandas, feebas, scikit, bgm, bayes, h20.ai, sparkling-water, tensorflow, keras, onyx, ekans, hadoop, scala, unity, gc, metapod, c#/c++, krebase, neo4j.
 <br> I typically ask recruiters to point out which of these are pokemon.<img src="https://img.icons8.com/color/25/000000/pokeball.png" alt="pokeball" />
 <p>
 <h3 align="left">About me:</h3>
