@@ -13,7 +13,7 @@
 <br> I typically ask recruiters to point out which of these are pokemon.<img src="https://img.icons8.com/color/25/000000/pokeball.png" alt="pokeball" />
 <p>
 <h3 align="left">About me:</h3>
-I am currently a junior in <a href="www.ssn.edu.in">SSN College of Engineering</a> pursuing my undergraduate education in <b>Computer Science and Engineering</b>. I am interested in the fields of <b>Machine Learning</b>, <b>Data Science</b> and <b>Natural Language Processing</b>. Feel free to contact me for project collaborations and Open Source contributions. :)
+I am currently a junior in <a href="www.ssn.edu.in">SSN College of Engineering</a> pursuing my undergraduate education in <b>Computer Science and Engineering</b>. I am interested in the fields of <b>Machine Learning</b>, <b>Data Science</b> and <b>Natural Language Processing</b>. Feel free to contact me for project collaborations and Open Source contributions. :)<br>For more information, check out my portfolio website at <a href="https://shivanirudh.github.io">shivanirudh.github.io</a>. 
 
 <h3 align="left">Skills:</h3>
 
