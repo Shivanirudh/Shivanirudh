@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Shivanirudh</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shivanirudh-s-g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shivanirudh-s-g" height="30" width="40" /></a>
-<a href="https://fb.com/shivanirudh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shivanirudh" height="30" width="40" /></a>
-<a href="https://instagram.com/shiv_anirudh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shiv_anirudh" height="30" width="40" /></a>
+<h1 align="center">Hey! Shiva here. Nice to meet you!:smiley:</h1>
+
+<p align="center">
+<a href="mailto:shivanirudh18146@cse.ssn.edu.in" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt = "Shivanirudh" height = "30" width = "30" /></a>
+<a href="https://www.linkedin.com/in/shivanirudh-s-g/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shiv-anirudh" height="30" width="30" /></a>
+<a href="https://fb.com/shivanirudh s g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shivanirudh" height="30" width="30" /></a>
+<a href="https://instagram.com/shiv_anirudh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shiv_anirudh" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/shivanirudh2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shivanirudh2001" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
