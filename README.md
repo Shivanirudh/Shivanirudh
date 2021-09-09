@@ -1,4 +1,4 @@
-<h1 align="center">Hey! Shiva here. Nice to meet you!:smiley:</h1>
+<h1 align="center">Hey! Shiva here. :smiley:</h1>
 
 <p align="center">
 <a href="mailto:shivanirudh2001@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt = "Shivanirudh" height = "30" width = "30" /></a>
