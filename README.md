@@ -14,7 +14,7 @@
 
 <p>
 <h3 align="left">About me:</h3>
-I am currently a junior in <a href="www.ssn.edu.in">SSN College of Engineering</a> pursuing my undergraduate education in <b>Computer Science and Engineering</b>. I am interested in the fields of <b>Machine Learning</b>, <b>Data Science</b> and <b>Natural Language Processing</b>. Feel free to contact me for project collaborations and Open Source contributions. :)<br>For more information, check out my portfolio website at <a href="https://shivanirudh.github.io">shivanirudh.github.io</a>. 
+I am currently a senior in <a href="www.ssn.edu.in">SSN College of Engineering</a> pursuing my undergraduate education in <b>Computer Science and Engineering</b>. I am interested in the fields of <b>Machine Learning</b>, <b>Data Science</b> and <b>Natural Language Processing</b>. Feel free to contact me for project collaborations and Open Source contributions. :)<br>For more information, check out my portfolio website at <a href="https://shivanirudh.github.io">shivanirudh.github.io</a>. 
 
 <h3 align="left">Languages and Tools:</h3>
 
