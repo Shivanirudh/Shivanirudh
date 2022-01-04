@@ -36,6 +36,8 @@ I am currently a senior in <a href="www.ssn.edu.in">SSN College of Engineering</
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
+<a href="https://snehaskannannotes.notion.site/Ex-4-Database-b7a92a72273e48eab463daa7c28182d3">Jamai</a>
+
 <h3 align="left">Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanirudh&show_icons=true&locale=en&layout=compact" alt="shivanirudh" /></p>
 
