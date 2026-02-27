@@ -14,7 +14,7 @@
 
 <p>
 <h3 align="left">About me:</h3>
-I am currently a student at <a href="https://www.iiitb.ac.in/">IIIT Bangalore</a> pursuing my postgraduate education in <b>Computer Science and Engineering</b>. I am interested in the fields of <b>Machine Learning</b>, <b>Data Science</b> and <b>Natural Language Processing</b>. Feel free to contact me for project collaborations and Open Source contributions. :)<br>For more information, check out my portfolio website at <a href="https://shivanirudh.github.io">shivanirudh.github.io</a>. 
+I am currently a Data Scientist at <a href="https://www.jpmorganchase.com/">JPMorganChase</a>. I completed my Masters from <a href="https://www.iiitb.ac.in/">IIIT Bangalore</a> in <b>Computer Science and Engineering</b>. I am interested in the fields of <b>Machine Learning</b>, <b>Data Science</b>, <b>Reinforcement Learning/> and <b>Natural Language Processing</b>. Feel free to contact me for project collaborations and Open Source contributions. :)<br>For more information, check out my portfolio website at <a href="https://shivanirudh.github.io">shivanirudh.github.io</a>. 
 
 <h3 align="left">Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanirudh&show_icons=true&locale=en&layout=compact" alt="shivanirudh" /></p>
